@@ -1,0 +1,9 @@
+transformers
+datasets
+sentence_transformers
+ipykernel
+tqdm
+evaluate
+matplotlib
+seaborn
+scikit-learn
