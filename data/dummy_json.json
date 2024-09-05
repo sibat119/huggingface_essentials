@@ -1,0 +1,5 @@
+[
+    {"id": 1, "text": "Hello world", "label": 1},
+    {"id": 2, "text": "HuggingFace is amazing", "label": 0},
+    {"id": 3, "text": "Machine learning is fun", "label": 1}
+]
