@@ -6,4 +6,6 @@ tqdm
 evaluate
 matplotlib
 seaborn
+bitsandbytes
+sentencepiece
 scikit-learn
